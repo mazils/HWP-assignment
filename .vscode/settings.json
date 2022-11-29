@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "arduino.h": "c",
+    "interrupt.h": "c",
+    "temperature_application.h": "c",
+    "led_array.h": "c",
+    "dependency_driver.h": "c",
+    "delay.h": "c",
+    "forced_include.h": "c",
+    "temperature_sensor.h": "c",
+    "7_digit_display.h": "c",
+    "segments_driver.h": "c",
+    "temperature_driver.h": "c",
+    "matrix_driver.h": "c",
+    "servo_driver.h": "c"
+}
+}
